@@ -1,0 +1,12 @@
+.nav {
+    display: flexbox;
+}
+
+.img-profile {
+    height: 2rem;
+    width: 2rem
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
