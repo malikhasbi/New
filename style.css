@@ -1,12 +1,12 @@
-.nav {
-    display: flexbox;
-}
-
-.img-profile {
+nav .img-profile {
     height: 2rem;
     width: 2rem
 }
 
-.rounded-circle {
+nav .rounded-circle {
     border-radius: 50%;
+}
+
+nav .navbar-nav p {
+    font-size: 20px;
 }

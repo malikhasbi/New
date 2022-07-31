@@ -1,11 +1,17 @@
 /* my css */
-.img-profile {
+nav .img-profile {
   height: 2rem;
   width: 2rem
 }
 
-.rounded-circle {
+nav .rounded-circle {
   border-radius: 50%;
+}
+
+
+.mydropdowncss:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
 }
 
 /* end my css */
@@ -20,7 +26,7 @@ html {
 
 body {
   background: #fff;
-  font: 400 12px/1.8 "Open Sans", sans-serif;
+  font: 400 16px/1.8 "Open Sans", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
 }
@@ -1389,7 +1395,7 @@ General Styles - Owlcarousel
 
 .dropdown-menu {
   min-width: 180px;
-  font-size: 11px;
+  font-size: 13px;
 }
 
 /* Navbar search
